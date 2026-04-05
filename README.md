@@ -87,6 +87,7 @@ The hybrid model effectively captures both **time-series patterns (trend & seaso
 - Deploy as web dashboard
 - Real-time IoT integration
 - Add map-based visualization
+- climate control
 
 ---
 
@@ -98,8 +99,6 @@ project-root/
 │── src/
 │── results/
 │── README.md
-
-
 ---
 
 ## 🔹 Acknowledgment
